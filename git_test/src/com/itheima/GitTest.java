@@ -1,8 +1,10 @@
 package com.itheima;
 
 public class GitTest {
-    public static void main(String[] args) {
+
+    public void main(String[] args) {
         System.out.println("大奶林");
+        this.test();
     }
 
 
